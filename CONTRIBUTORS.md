@@ -6,5 +6,5 @@ O grupo
 Nome dos voluntários
 
 ## Dev Team.
-[Janderson Ferreira Machado](https://github.com/developmentlibrary)
+[Janderson Ferreira Machado](https://github.com/developmentlibrary)<br>
 [Reginaldo Ribeiro](https://github.com/drahko)<br>
